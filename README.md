@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Minh Hieu
 ![](https://i.ytimg.com/vi/-yfT7eU1AoU/maxresdefault.jpg)
-### Hi there 👋, I'm Minh Hieu
-I'm Hieu from VietNam and I'm not a coder!!!
+I'm from VietNam and I'm not a coder!!!
 ## Skills and Experience
 * 📱 ReactNative
 * 💻 HTML,CSS,JS
