@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/MySQL-%23316192.svg?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
     <br/>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku"/>
     <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase"/>
 </p>
