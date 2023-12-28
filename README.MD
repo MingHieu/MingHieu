@@ -34,24 +34,6 @@
     <img src="https://img.shields.io/badge/Firebase-blue?style=flat-square&logo=firebase"/>
 </p>
 
-<h2>Project <img src="https://cdn-icons-png.flaticon.com/512/5956/5956592.png" height="30"></h2>
-
-<a href="https://github.com/MingHieu/react-native-template">
-   <p>React Native template</p
-</a>
-
-<a href="https://github.com/MingHieu/nestjs-template">
-   <p>NestJS template</p>
-</a>
-
-<a href="https://github.com/MingHieu/RN-PhimHay">
-   <p>Movie app</p>
-</a>
-
-<a href="https://github.com/MingHieu/TimViec">
-    <p>Find job app</p>
-</a>
-
 <h2>Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" height="30"></h2>
 
 <p>
